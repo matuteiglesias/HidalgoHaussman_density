@@ -1,0 +1,7 @@
+# $ find . -size +50M | cat >> .gitignore
+
+
+./HS4_corr.csv
+./wt_dest
+./HS4_angle.csv
+./wt.csv
